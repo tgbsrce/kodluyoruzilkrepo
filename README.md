@@ -5,17 +5,17 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End eğitiminde oluştur
 
 ![proje resmi](img/markdown.PNG)
 
-#Installation
+##Installation
 
 Öncellikle projeyi kolanlayın. [Proje](https://github.com/tgbsrce/kodluyoruzilkrepo.git)
 
-#Usage
+##Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
-#Contributing
+##Contributing
 
 Pull requestler kabul edilir.Büyük değişiklikler için,lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
-#License
+##License
 
 
